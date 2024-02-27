@@ -2,4 +2,6 @@
  PART 2
 
  VIDEO LINK FOR FULL WALKTHROUGH: https://youtu.be/tbxmFDt0KWk
+
+
  VIDEO LINK FOR COLLISIONS IN CASE I DIDN'T SHOW ALL: https://youtu.be/syWfdATeKKI
