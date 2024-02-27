@@ -1,4 +1,5 @@
 # CS415-MP-2-PART2
  PART 2
 
- VIDEO LINK: https://youtu.be/tbxmFDt0KWk
+ VIDEO LINK FOR FULL WALKTHROUGH: https://youtu.be/tbxmFDt0KWk
+ VIDEO LINK FOR COLLISIONS IN CASE I DIDN'T SHOW ALL: https://youtu.be/syWfdATeKKI
