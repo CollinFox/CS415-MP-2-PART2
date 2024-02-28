@@ -1322,3 +1322,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.28-16.31.14:967][442]LogSlate: Window 'BP_CharacterAI' being destroyed
 [2024.02.28-16.31.15:103][442]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
 [2024.02.28-16.31.15:104][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-16.31.36:004][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CharacterAI.BP_CharacterAI
+[2024.02.28-16.31.36:008][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.31.36:008][529]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-16.31.37:063][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.31.59:910][952]BlueprintLog: New page: Compile BP_CharacterAI
+[2024.02.28-16.32.00:005][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.02.28-16.32.01:985][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-16.32.02:131][969]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterAI
+[2024.02.28-16.32.02:132][969]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_CharacterAI6F2E0FA8424137C27EDE47A3EF7F2CF9.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_CharacterAI.uasset'
+[2024.02.28-16.32.02:145][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 3.34 sec)
+[2024.02.28-16.32.02:149][969]AssetCheck: New page: Asset Save: BP_CharacterAI
+[2024.02.28-16.32.02:149][969]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CharacterAI.BP_CharacterAI
+[2024.02.28-16.32.07:143][ 12]LogSlate: Window 'BP_CharacterAI' being destroyed
+[2024.02.28-16.32.07:284][ 12]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-16.32.07:284][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
