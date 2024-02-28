@@ -1337,3 +1337,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.28-16.32.07:143][ 12]LogSlate: Window 'BP_CharacterAI' being destroyed
 [2024.02.28-16.32.07:284][ 12]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
 [2024.02.28-16.32.07:284][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-16.34.32:872][672]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MortarAI.BP_MortarAI
+[2024.02.28-16.34.32:873][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.34.32:873][672]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-16.35.06:716][116]BlueprintLog: New page: Compile BP_MortarAI
+[2024.02.28-16.35.06:920][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.28-16.35.08:305][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-16.35.08:403][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MortarAI" FILE="../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_MortarAI.uasset" SILENT=true
+[2024.02.28-16.35.08:429][124]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MortarAI
+[2024.02.28-16.35.08:430][124]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_MortarAIEFEADDFF4885345D64EEDDB45D3CA149.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_MortarAI.uasset'
+[2024.02.28-16.35.08:460][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 3.49 sec)
+[2024.02.28-16.35.08:465][124]AssetCheck: New page: Asset Save: BP_MortarAI
+[2024.02.28-16.35.08:465][124]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_MortarAI.BP_MortarAI
