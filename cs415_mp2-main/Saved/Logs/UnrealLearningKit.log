@@ -1199,3 +1199,126 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.28-16.10.25:188][816]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.28-16.10.25:188][816]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
 [2024.02.28-16.10.41:241][ 54]LogDerivedDataCache: C:/Users/crazy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.599 and deleted 1 files with total size 0 MiB and 1 empty folders. Scanned 3674 files in 5371 folders with total size 139 MiB.
+[2024.02.28-16.27.26:950][520]LogUObjectHash: Compacting FUObjectHashTables data took  19.45ms
+[2024.02.28-16.27.26:983][520]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase' took 0.523
+[2024.02.28-16.27.27:017][520]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MortarAI] ([2] browsable assets)...
+[2024.02.28-16.27.27:468][520]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MortarAI.BP_MortarAI]
+[2024.02.28-16.27.27:468][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MortarAI]
+[2024.02.28-16.27.27:745][520]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_MortarAI_Auto1
+[2024.02.28-16.27.27:746][520]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_MortarAI_Auto17F517F6C4185FCFA5B043387930E3F79.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/Autosaves/Game/Blueprints/BP_MortarAI_Auto1.uasset'
+[2024.02.28-16.27.27:777][520]LogFileHelpers: Auto-saving content packages took 0.791
+[2024.02.28-16.27.33:990][574]BlueprintLog: New page: Compile BP_MortarAI
+[2024.02.28-16.27.34:448][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.28-16.27.36:950][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-16.27.37:178][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MortarAI" FILE="../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_MortarAI.uasset" SILENT=true
+[2024.02.28-16.27.37:192][592]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MortarAI
+[2024.02.28-16.27.37:193][592]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_MortarAICA15FF984A0B11D16ADC20B10D4B7F45.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_MortarAI.uasset'
+[2024.02.28-16.27.37:216][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 983 ms)
+[2024.02.28-16.27.37:238][592]AssetCheck: New page: Asset Save: BP_MortarAI
+[2024.02.28-16.27.37:238][592]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_MortarAI.BP_MortarAI
+[2024.02.28-16.27.41:187][651]LogSlate: Window 'My Blueprint' being destroyed
+[2024.02.28-16.27.41:336][651]LogSlate: Window 'My Blueprint' being destroyed
+[2024.02.28-16.27.51:471][724]LogSlate: Window 'BP_MortarAI' being destroyed
+[2024.02.28-16.27.51:625][724]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-16.27.51:629][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-16.27.57:933][785]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.27.58:380][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.28.00:696][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-16.28.00:698][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.28.00:699][825]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-16.28.02:418][834]LogShaderCompilers: Display: ================================================
+[2024.02.28-16.28.02:418][834]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.28-16.28.02:418][834]LogShaderCompilers: Display: Total job queries 99, among them cache hits 24 (24.24%)
+[2024.02.28-16.28.02:418][834]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 48 distinct outputs (70.59%)
+[2024.02.28-16.28.02:418][834]LogShaderCompilers: Display: RAM used: 137.37 KiB of 614.40 MiB budget. Usage: 0.02%
+[2024.02.28-16.28.02:418][834]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.28-16.28.02:418][834]LogShaderCompilers: Display: Shaders Compiled: 9
+[2024.02.28-16.28.02:418][834]LogShaderCompilers: Display: Jobs assigned 12, completed 9 (75.00%)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Average time worker was idle: 561.88 s
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 1.34 s
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 1.26 s
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 1.96
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Shader code size: average 3.735 KiB, min 1.695 KiB, max 5.555 KiB
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.70 s
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Average processing rate: 3.33 jobs/sec
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Total thread time: 4.238 s
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Total thread preprocess time: 0.581 s
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Percentage time preprocessing: 13.71%
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Effective parallelization: 1.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.24 sec, max 0.29 sec, min 0.19 sec)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.18% of total time (compiled    2 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.65% of total time (compiled    2 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.46% of total time (compiled    2 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.72% of total time (compiled    3 times, average 0.24 sec, max 0.29 sec, min 0.19 sec)
+[2024.02.28-16.28.02:419][834]LogShaderCompilers: Display: ================================================
+[2024.02.28-16.28.03:070][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.28.58:137][ 31]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.28-16.28.58:332][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.28-16.28.59:097][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-16.28.59:457][ 39]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.28-16.28.59:458][ 39]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_LearningKit_PlayerCharacter999ADF754702CA6F47F91EB136FCA2B2.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.28-16.28.59:478][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 380 ms (total: 1.36 sec)
+[2024.02.28-16.28.59:489][ 39]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.02.28-16.28.59:489][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-16.29.16:725][353]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.28-16.29.16:851][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.02.28-16.29.17:719][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-16.29.18:055][362]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.28-16.29.18:055][362]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_LearningKit_PlayerCharacterC6459E1A4034A36CC1BE30A087AE991A.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.28-16.29.18:072][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 353 ms (total: 1.71 sec)
+[2024.02.28-16.29.18:078][362]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.02.28-16.29.18:078][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-16.29.55:555][727]LogSlate: Window 'My Blueprint' being destroyed
+[2024.02.28-16.29.55:715][727]LogSlate: Window 'My Blueprint' being destroyed
+[2024.02.28-16.29.57:218][742]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.28-16.29.57:359][742]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2024.02.28-16.29.59:297][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.02.28-16.30.00:620][756]LogSlate: Window 'Save Content' being destroyed
+[2024.02.28-16.30.00:641][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-16.30.00:731][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.30.01:301][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.30.01:372][756]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterAI
+[2024.02.28-16.30.01:373][756]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_CharacterAIF0F4AC4E4785D1A555CCEC9879398B00.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_CharacterAI.uasset'
+[2024.02.28-16.30.01:473][756]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.28-16.30.01:474][756]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_LearningKit_PlayerCharacter2D50FBF249529D2BDEDEC284DE6DBBB2.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.28-16.30.01:526][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MortarAI" FILE="../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_MortarAI.uasset" SILENT=true
+[2024.02.28-16.30.01:542][756]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MortarAI
+[2024.02.28-16.30.01:542][756]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_MortarAI80171DC5475784F61C3E6E88ED021582.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_MortarAI.uasset'
+[2024.02.28-16.30.01:545][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.30.01:613][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obstacle" FILE="../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_Obstacle.uasset" SILENT=true
+[2024.02.28-16.30.01:623][756]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Obstacle
+[2024.02.28-16.30.01:624][756]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_ObstacleF049841045BC6D299C841AB7F162ADA1.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_Obstacle.uasset'
+[2024.02.28-16.30.01:628][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.30.01:823][756]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Projectile
+[2024.02.28-16.30.01:824][756]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_Projectile4CEE54A347F17AB3D8D690B1E59D39FE.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_Projectile.uasset'
+[2024.02.28-16.30.01:840][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.19 sec (total: 2.91 sec)
+[2024.02.28-16.30.01:858][756]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.28-16.30.01:858][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CharacterAI.BP_CharacterAI
+[2024.02.28-16.30.01:858][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-16.30.01:858][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_MortarAI.BP_MortarAI
+[2024.02.28-16.30.01:858][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle
+[2024.02.28-16.30.01:858][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2024.02.28-16.30.43:558][105]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2024.02.28-16.30.43:703][105]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-16.30.43:703][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-16.30.50:634][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.30.54:415][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CharacterAI.BP_CharacterAI
+[2024.02.28-16.30.54:420][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-16.30.54:422][219]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-16.31.10:793][407]BlueprintLog: New page: Compile BP_CharacterAI
+[2024.02.28-16.31.10:922][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2024.02.28-16.31.13:183][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-16.31.13:431][427]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterAI
+[2024.02.28-16.31.13:439][427]LogSavePackage: Moving '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Saved/BP_CharacterAI39E6B9A74B51CC189A009093CAACF090.tmp' to '../../../../../../Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_CharacterAI.uasset'
+[2024.02.28-16.31.13:448][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 265 ms (total: 3.18 sec)
+[2024.02.28-16.31.13:453][427]AssetCheck: New page: Asset Save: BP_CharacterAI
+[2024.02.28-16.31.13:453][427]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CharacterAI.BP_CharacterAI
+[2024.02.28-16.31.14:967][442]LogSlate: Window 'BP_CharacterAI' being destroyed
+[2024.02.28-16.31.15:103][442]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-16.31.15:104][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

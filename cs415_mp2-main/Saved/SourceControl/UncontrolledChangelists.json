@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_MortarAI.uasset",
+				"C:/Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_CharacterAI.uasset",
+				"C:/Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_Obstacle.uasset",
+				"C:/Users/crazy/Downloads/cs415_mp2-main/CS415-MP-2-PART2/cs415_mp2-main/Content/Blueprints/BP_Projectile.uasset",
 				"C:/Users/crazy/Downloads/cs415_mp2-main/cs415_mp2-main/Content/UI/HealthWidget.uasset",
 				"C:/Users/crazy/Downloads/cs415_mp2-main/cs415_mp2-main/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"C:/Users/crazy/Downloads/cs415_mp2-main/cs415_mp2-main/Content/Blueprints/BP_Obstacle.uasset",
